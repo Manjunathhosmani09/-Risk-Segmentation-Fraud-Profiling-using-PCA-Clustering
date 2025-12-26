@@ -2,7 +2,7 @@
 
 ## **1. Executive Summary**
 
-This project presents a robust analytical framework designed to identify distinct customer personas and assess credit default risk using **Unsupervised Learning**. By integrating **Hierarchical Clustering**, **K-Means**, and **Principal Component Analysis (PCA)**, the analysis transforms raw financial data into actionable segments. The core objective is to isolate "High Default Risk" profiles, enabling data-driven strategies for risk mitigation and compliance, critical for fintech environments like **Signzy**.
+This project presents a robust analytical framework designed to identify distinct customer personas and assess credit default risk using **Unsupervised Learning**. By integrating **Hierarchical Clustering**, **K-Means**, and **Principal Component Analysis (PCA)**, the analysis transforms raw financial data into actionable segments. The core objective is to isolate "High Default Risk" profiles, enabling data-driven strategies for risk mitigation and compliance, critical for fintech environments .
 
 ---
 
