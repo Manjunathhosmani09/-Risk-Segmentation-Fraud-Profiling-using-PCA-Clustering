@@ -66,8 +66,7 @@ clusters = kmeans.fit_predict(pca_data)
 
 ```
 
-* 
-**Impact:** Best for **Income-based Segmentation**, providing a clear view of enterprise performance across customer tiers.
+* **Impact:** Best for **Income-based Segmentation**, providing a clear view of enterprise performance across customer tiers.
 
 
 
@@ -89,8 +88,7 @@ To ensure the model meets the high-quality data standards required in retail and
 
 * **Cluster Stability:** PCA-enhanced K-Means showed significantly lower noise and higher silhouette scores compared to raw K-Means.
 * **Statistical Integrity:** Variables like Debt-to-Income and Credit Score showed high significance in defining cluster centroids.
-* 
-**Data Integrity:** Improved model reliability through outlier capping and encoding, ensuring stable and interpretable predictors.
+* **Data Integrity:** Improved model reliability through outlier capping and encoding, ensuring stable and interpretable predictors.
 
 
 
@@ -98,13 +96,10 @@ To ensure the model meets the high-quality data standards required in retail and
 
 ## **6. Business Impact & Conclusion**
 
-* 
-**Fraud Detection:** The segmentation framework assists in detecting fraud patterns by identifying anomalies in high-usage, low-credit-score clusters.
+* **Fraud Detection:** The segmentation framework assists in detecting fraud patterns by identifying anomalies in high-usage, low-credit-score clusters.
 
 
-* 
-**Efficiency:** Automating these risk-profiling workflows increases analytical efficiency, similar to the 27% gain achieved in previous financial reporting projects.
+* **Efficiency:** Automating these risk-profiling workflows increases analytical efficiency, similar to the 27% gain achieved in previous financial reporting projects.
 
 
-* 
-**Final Outcome:** Provides a data-driven intelligence layer for executive decision-making, transforming complex datasets into clear, actionable risk narratives.
+* **Final Outcome:** Provides a data-driven intelligence layer for executive decision-making, transforming complex datasets into clear, actionable risk narratives.
